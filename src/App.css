@@ -1,0 +1,158 @@
+/* .header{
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid blue;
+    margin: 10px;
+}
+.header:hover{
+  border: 1px solid blue;
+
+}
+.logo{
+  margin:auto 1px;
+  width: 150px;
+  padding: 0px 0px 10px 23px;
+}
+.logo:hover{
+  cursor: pointer;
+}
+
+.title{
+  font-size: 60px;
+  padding: 0px 0px 0px 100px;
+  color: rgb(28, 144, 173);
+}
+
+.nav{
+  display: flex;
+  list-style-type: none;
+  padding: 0px 10px 20px 0px;
+}
+
+.nav > li{
+  padding: 10px;
+  margin: 10px;
+  font-size: 18px;
+  text-decoration: none;
+}
+link{
+  text-decoration: none;
+}
+.nav > li:hover{
+  color: blue;
+  cursor: pointer;
+}
+.login{
+  margin-left: 330px;
+  margin-bottom: 10px;
+}
+.login > button{
+  width: 75px;
+  height: 35px;
+}
+.body{
+  padding: 35px 10px 10px 5px;
+}
+.filter{
+ margin-left: 20px;
+ display: flex;
+}
+.filter > button{
+    margin-left: 20px;
+    cursor: pointer;
+    height: 50px;
+}
+.search{
+  display: flex;
+  margin-left: 470px;
+}
+.search > input{
+  width: 250px;
+  height: 20px;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+.card{
+  padding: 2px;
+  width: 280px;
+  height: 530px;
+  margin-left: 40px;
+  margin-top: 20px;
+  border: 0.4px solid purple;
+  cursor: pointer;
+}
+.card:hover{
+  border: 0.4px solid purple;
+}
+
+.cardc{
+  padding: 2px;
+  width: 230px;
+  height: 300px;
+  margin-left: 30px;
+  margin-top: 20px;
+  border: 0.4px solid purple;
+}
+.cardc:hover{
+  border: 0.4px solid purple;
+}
+.center{
+  text-align: center;
+  justify-items: center;
+}
+.adjust{
+  margin-left: 17px;
+}
+.products{
+  display: flex;
+  flex-wrap: wrap;
+}
+#img{
+  width: 100%;
+  height: 55%;
+}
+.card > button{
+  margin-left: 100px;
+}
+
+.card > button:hover{
+  cursor: pointer;
+}
+
+.cardc > button{
+  margin-left: 78px;
+}
+
+.cardc > button:hover{
+  cursor: pointer;
+}
+.point{
+  cursor:pointer;
+}
+
+.shimmercard{
+  padding: 2px;
+  width: 295px;
+  height: 470px;
+  margin-left: 30px;
+  margin-top: 110px;
+  border: 0.4px solid rgb(112, 109, 112);
+  background-color: rgb(152, 163, 163);
+   
+}
+
+.shimmer-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.linktag{
+  text-decoration: none;
+  color: inherit;
+
+} */
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
